@@ -1,0 +1,49 @@
+nav {
+  background-color: #02798b;
+  padding: 10px;
+}
+
+nav a {
+  color: antiquewhite;
+  text-decoration: none;
+  display: block;
+  padding: 10px;
+}
+h1, h2, h3 {
+  margin: 0;
+  padding: 20px 0;
+  color: lightblue;
+  text-shadow: 3px 3px 1px black;
+  font-size: 60px;
+  text-align: center;
+}
+p {
+  font-size: 15px;
+  line-height: 2;
+  letter-spacing: 1px;
+  color: lightseagreen;
+  width: 500px;
+  border: 1px solid #00aa00;
+  padding: 10px;
+}
+html {
+  background-color: #00539f;
+  font-size: 15px; /* px means "pixels": the base font size is now 10 pixels high */
+  font-family: "Gochi Hand", sans-serif; /* this should be the rest of the output you got from Google Fonts */
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #ff9500;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  width: 150px;
+  height: auto;
+  border: 1px solid steelblue;
+  padding: 2px;
+  box-shadow: 0 0 30px gray;
+}
