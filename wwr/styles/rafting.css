@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&family=Smokum&display=swap');
+
+:root {
+    --primary-color: #74beec;
+    --secondary-color: #9ce6ec;
+    --accent1-color: #60ae32;
+    --accent2-color: #093658;
+  
+    --heading-font: 'Smokum';
+    --paragraph-font: 'Patrick Hand';
+  
+    --nav-background-color: #81eCCA;
+    --nav-link-color: #60ae32;
+    --nav-hover-link-color: #093658;
+    --nav-hover-background-color: #9ce6ec;
+}
+h1 {
+    font-family: var(--heading-font);
+    color: aliceblue;
+    font-size: 40px;
+    text-shadow: 2px, 2px, 1px #093658;
+    position: absolute;
+    background-color: var(--primary-color);
+    text-align: center;
+}
+h2 {
+    font-family: var(--heading-font);
+    color: var(--primary-color);
+    font-size: 40px;
+}
+.hero img {
+    position: relative;
+}
+article {
+    position: absolute;
+    padding: 30px;
+    font-size: 20px;
+    background-color: aliceblue;
+}
+article img {
+    float: right;
+    width: 450px;
+    height: auto;
+}
+section img{
+    width: 800px;
+}
+body {
+    font-family: var(--paragraph-font);
+    color: var(--accent2-color);
+}
+.sociallinks img{
+    width: 50px;
+    height: auto;
+}
