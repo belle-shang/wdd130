@@ -79,6 +79,7 @@ footer {
     display: flex;
     width: 50px;
     height: auto;
+    margin-right: 5rem;
 }
 nav {
     background: rgb(242, 241, 241);
