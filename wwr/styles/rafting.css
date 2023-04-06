@@ -25,6 +25,13 @@ h1 {
     right: 80px;
     text-align: center;
 }
+main.contact{
+    font-family: var(--heading-font);
+    color: #74beec;
+    font-size: 60px;
+    text-shadow: 2px, 2px, 1px #093658;
+    text-align: center;
+}
 h2 {
     font-family: var(--heading-font);
     color: var(--primary-color);
