@@ -138,3 +138,28 @@ button {
     padding: .75rem;
     font-size: 1.2rem;
 }
+.call img {
+    width: 800px;
+}
+.trip {
+    margin: 5rem;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+.trip img {
+    display: box;
+    width: 500px;
+}
+table {
+    margin:5px;
+}
+th {
+    background-color: #9ce6ec;
+    height: 150px;
+}
+td {
+    background-color: azure;
+    text-align: center;
+    width: 700px;
+}
